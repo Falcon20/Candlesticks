@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: app_development
+  pool: 5
+  username: azadsinghgautam
+  password:
